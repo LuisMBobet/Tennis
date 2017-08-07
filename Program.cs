@@ -50,7 +50,6 @@ namespace ConsoleApp1
             ReadFile();
             WriteFile();
         }
-        /* C:\Users\Blue\Desktop\New Life\Code\Python\input.txt */
 
         /* private ReadFile :
          * Input : None
